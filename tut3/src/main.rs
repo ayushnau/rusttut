@@ -34,15 +34,16 @@
 
 // shadowing.
 
-fn main() {
-    let a = 4; 
-    println!("{}" , a);
- {   
-    let a= a +4;
-     println!("{}" , a);
+// fn main() {
+//     let a = 4; 
+//     println!("{}" , a);
+//  {   
+//     let a= a +4;
+//      println!("{}" , a);
 
 
- }
-    let a = a + 1;
-    println!("{}" , a);
-}
+//  }
+//     let a = a + 1;
+//     println!("{}" , a);
+// }
+//comment
